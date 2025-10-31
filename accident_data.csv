@@ -1,0 +1,41 @@
+Index,Accident_Severity,Accident_Date,Latitude,Light_Conditions,District_Area,Longitude,Number_of_Vehicles,Number_of_Casualties,Road_Surface,Road_Type,Urban_or_Rural,Weather_Conditions,Vehicle_Type
+200701BS64,Serious,2019-05-06,51.506187,Darkness,Kensington and Chelsea,-0.209082,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS65,Serious,2019-02-07,51.495029,Daylight,Kensington and Chelsea,-0.173647,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS66,Serious,2019-26-08,51.517715,Darkness,Kensington and Chelsea,-0.210215,1,3,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire
+200701BS66,Serious,2019-16-08,51.495478,Daylight,Kensington and Chelsea,-0.202731,1,4,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach
+200701BS66,Slight,2019-03-09,51.488576,Darkness,Kensington and Chelsea,-0.192487,1,2,Dry,Single carriageway,Urban,Fine no high winds,Other vehicle
+200701BS67,Serious,2019-18-09,51.49775,Daylight,Kensington and Chelsea,-0.192556,2,3,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67,Serious,2019-05-09,51.501405,Daylight,Kensington and Chelsea,-0.161577,1,2,Dry,Dual carriageway,Urban,Fine no high winds,Van / Goods
+200701BS67,Fatal,2019-03-10,51.48226,Darkness,Kensington and Chelsea,-0.179486,3,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67,Slight,2019-31-10,51.493319,Darkness,Kensington and Chelsea,-0.173572,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS67,Slight,2019-18-10,51.484539,Daylight,Kensington and Chelsea,-0.175651,1,2,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle
+200701BS67,Serious,2019-09-10,51.491944,Darkness,Kensington and Chelsea,-0.171898,1,2,Dry,Single carriageway,Urban,Fine no high winds,Goods vehicle
+200701BS68,Serious,2019-12-11,51.502345,Daylight,Westminster,-0.185432,2,3,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS69,Slight,2019-15-11,51.498765,Darkness,Westminster,-0.178654,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle
+200701BS70,Serious,2019-22-11,51.506543,Daylight,Westminster,-0.195432,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Bus or coach
+200701BS71,Fatal,2019-28-11,51.492876,Darkness,Westminster,-0.182345,2,4,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS72,Serious,2019-05-12,51.511234,Daylight,Westminster,-0.176543,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods
+200701BS73,Slight,2019-10-12,51.487654,Darkness,Westminster,-0.189876,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS74,Serious,2019-18-12,51.505432,Daylight,Camden,-0.145678,2,3,Dry,Dual carriageway,Urban,Fine no high winds,Taxi/Private hire
+200701BS75,Slight,2019-22-12,51.512345,Darkness,Camden,-0.156789,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS76,Serious,2020-08-01,51.498765,Daylight,Camden,-0.168901,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle
+200701BS77,Fatal,2020-15-01,51.507654,Darkness,Camden,-0.149012,3,5,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS78,Serious,2020-22-01,51.489012,Daylight,Camden,-0.157890,2,3,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach
+200701BS79,Slight,2020-29-01,51.513456,Darkness,Camden,-0.162345,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS80,Serious,2020-05-02,51.496789,Daylight,Islington,-0.105432,1,2,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods
+200701BS81,Slight,2020-12-02,51.508901,Darkness,Islington,-0.115678,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle
+200701BS82,Serious,2020-19-02,51.501234,Daylight,Islington,-0.124567,2,3,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS83,Fatal,2020-26-02,51.515678,Darkness,Islington,-0.098765,2,4,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS84,Serious,2020-04-03,51.497890,Daylight,Islington,-0.112345,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire
+200701BS85,Slight,2020-11-03,51.509012,Darkness,Islington,-0.119876,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS86,Serious,2020-18-03,51.502345,Daylight,Tower Hamlets,-0.045678,2,3,Dry,Dual carriageway,Urban,Fine no high winds,Bus or coach
+200701BS87,Slight,2020-25-03,51.514567,Darkness,Tower Hamlets,-0.056789,1,2,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS88,Serious,2020-01-04,51.498901,Daylight,Tower Hamlets,-0.068901,1,2,Wet or damp,Single carriageway,Urban,Raining no high winds,Motorcycle
+200701BS89,Fatal,2020-08-04,51.506789,Darkness,Tower Hamlets,-0.049012,3,6,Dry,Dual carriageway,Urban,Fine no high winds,Car
+200701BS90,Serious,2020-15-04,51.492345,Daylight,Tower Hamlets,-0.057890,2,3,Dry,Single carriageway,Urban,Fine no high winds,Van / Goods
+200701BS91,Slight,2020-22-04,51.511234,Darkness,Tower Hamlets,-0.062345,1,1,Wet or damp,Single carriageway,Urban,Raining no high winds,Car
+200701BS92,Serious,2020-29-04,51.503456,Daylight,Hackney,-0.065432,1,2,Dry,Single carriageway,Urban,Fine no high winds,Taxi/Private hire
+200701BS93,Slight,2020-06-05,51.515678,Darkness,Hackney,-0.075678,1,1,Dry,Single carriageway,Urban,Fine no high winds,Motorcycle
+200701BS94,Serious,2020-13-05,51.497890,Daylight,Hackney,-0.084567,2,3,Wet or damp,Dual carriageway,Urban,Raining no high winds,Car
+200701BS95,Fatal,2020-20-05,51.509012,Darkness,Hackney,-0.058765,2,5,Dry,Single carriageway,Urban,Fine no high winds,Car
+200701BS96,Serious,2020-27-05,51.501234,Daylight,Hackney,-0.072345,1,2,Dry,Single carriageway,Urban,Fine no high winds,Bus or coach
